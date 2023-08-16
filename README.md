@@ -1,4 +1,3 @@
-
 # HR Dashboard Project - Visualizing Employee Classification and Satisfaction
 
 
@@ -47,3 +46,5 @@ The HR Dashboard project amalgamates data analytics and visualization tools to p
 As workforce dynamics evolve, the project can be expanded to include predictive analytics for attrition forecasting, sentiment analysis for understanding employee sentiments, and integration of real-time data feeds for dynamic insights.
 
 The HR Dashboard project underscores the value of data visualization in human resource management. It exemplifies the power of visual insights in uncovering employee classification patterns and sentiments, serving as a valuable tool for HR professionals and organizational decision-makers.
+To read Report for this Dashboad Project, Visit :
+https://docs.google.com/presentation/d/1kr1dr_qEpWhN8Y6HY2tdaYQB5TB--Ig_X2B7A00bFMI/edit?usp=sharing
